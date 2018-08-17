@@ -33,43 +33,43 @@ export default {
           author: '秦观',
           content: '金风玉露一相逢<br/>便胜却人间无数',
           title: '鹊桥仙·纤云弄巧',
-          music: '/static/img/honeyhoney.png'
+          music: './static/img/honeyhoney.png'
         },
         {
           author: '杜牧',
           content: '天阶夜色凉如水<br/>卧看牵牛织女星',
           title: '秋夕',
-          music: '/static/img/xingyue.png'
+          music: './static/img/xingyue.png'
         },
         {
           author: '林杰',
           content: '七夕今宵看碧霄<br/>牵牛织女渡河桥',
           title: '乞巧',
-          music: '/static/img/sancuntiantang.png'
+          music: './static/img/sancuntiantang.png'
         },
         {
           author: '德容',
           content: '玉露金风报素秋<br/>穿针楼上独含愁',
           title: '七夕二首·其一',
-          music: '/static/img/jinfengyulu.png'
+          music: './static/img/jinfengyulu.png'
         },
         {
           author: '秦观',
           content: '两情若是久长时<br/>又岂在朝朝暮暮',
           title: '鹊桥仙·纤云弄巧',
-          music: '/static/img/shanyoumuxi.png'
+          music: './static/img/shanyoumuxi.png'
         },
         {
           author: '陈师道',
           content: '东飞乌鹊西飞燕<br/>盈盈一水经年见',
           title: '菩萨蛮·七夕',
-          music: '/static/img/shiguangbimo.png'
+          music: './static/img/shiguangbimo.png'
         },
         {
           author: '柳永',
           content: '愿天上人间<br/>占得欢娱，年年今夜',
           title: '二郎神',
-          music: '/static/img/jiuer.png'
+          music: './static/img/jiuer.png'
         }
       ]
     }
